@@ -1,0 +1,36 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "explorer.confirmDragAndDrop": true,
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "terminal.integrated.fontSize": 14,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "workbench.editor.labelFormat": "short",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "cSpell.words": [
+    "About",
+    "Toast"
+  ]
+}
